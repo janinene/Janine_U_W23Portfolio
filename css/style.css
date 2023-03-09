@@ -498,8 +498,7 @@ button {
 .knowledge_section {
     width: 100%;
     float: left;
-    background-image: url(../images/knowledge-bg.png);
-    background-size: 100%;
+    background-color: rgba(27, 236, 222, 0.5);
     height: auto;
     background-repeat: no-repeat;
     padding-top: 180px;
@@ -975,4 +974,15 @@ input.Enter_text::placeholder {
 
 .margin_90 {
     margin: 90px 0px;
+}
+
+#visit_website {
+    color: #FFFFFF;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 15px;
+    opacity: 0.5;
+}
+#visit_website:hover{
+    opacity: 1;
 }
