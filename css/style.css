@@ -827,16 +827,16 @@ button {
 
 #my_slider a.carousel-control-next {
     position: absolute;
-    left: 490px;
-    top: 70%;
-    background-color: #19e9d9;
+    right: 500px;
+    top: 50%;
+    background-color: #252525;
     color: #ffffff;
 }
 
 #my_slider a.carousel-control-prev {
     position: absolute;
-    left: 490px;
-    top: 84%;
+    left: 500px;
+    top: 50%;
     background-color: #252525;
 }
 
